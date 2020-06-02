@@ -1,0 +1,36 @@
+.panel-edit{
+	margin: 10px 0px 0px 0px;
+}
+.form-style{
+	margin-bottom: 27px;
+}
+.box-element{
+	width: 100%;
+	float: left;
+}
+.form-control{
+	border-radius: 0px;
+}
+@media (max-width: 430px) { 
+	.clearFields{
+		margin-top: 5px;
+	}
+}
+.panel-found{
+	display: none;
+}
+.header-table, td{
+	font-weight: bold;
+}
+
+.table-responsive{
+	overflow-x: scroll;
+	overflow-y: scroll;
+	max-height: 400px;
+}
+.header-table td{
+	font-weight: bold;
+}
+tr td{
+	font-weight: normal;
+}
